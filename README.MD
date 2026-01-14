@@ -4,7 +4,7 @@ https://github.com/BananaPishang
 
 My Website Link Address
 
-https://github.com/BananaPishang/Dania_website_sdg17.git
+https://bananapishang.github.io/Dania_website_sdg17/
 
 # SDG 17: Partnerships for the Goals
 
@@ -54,4 +54,5 @@ This project is created for educational and non-commercial purposes only.
 **Dania Azhari**
 Web Design & Development Project
 2025
+
 
